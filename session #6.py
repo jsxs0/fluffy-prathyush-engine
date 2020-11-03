@@ -1,4 +1,4 @@
 a = input()
-b = list(a)
-c = a.split()
-print(c)
+list(a)
+b = a.split()
+print(b)
