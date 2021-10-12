@@ -1,0 +1,10 @@
+Singular value decomposition (SVD) is a widely applicable tool in linear algebra. Its strength stems
+partially from the fact that every matrix A ∈ R
+m×n has an SVD (even non-square matrices)! The
+decomposition goes as follows:
+A = UΣV>
+where U ∈ R
+m×m and V ∈ R
+n×n are orthogonal matrices and Σ ∈ R
+m×n is a diagonal matrix with
+the singular values of A (denoted σi) on its diagonal.
